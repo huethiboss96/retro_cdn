@@ -5024,7 +5024,7 @@
 			"md5": "f323178aabaacf6783f8c33fd2f16558"
 		},
 		"res/GUI/LobbyScene.json": {
-			"md5": "09d6d67e804ac07893a0662bca154bf3"
+			"md5": "8e7b5227e9f584797e8d52a332e9c782"
 		},
 		"res/GUI/LobbySceneGG.json": {
 			"md5": "1f046bc8be8a2021e5ebe5bc3726af36"
@@ -5681,7 +5681,7 @@
 			"md5": "e573186d5c63767a78c7b244ab7f60ca"
 		},
 		"src/Retro/Home/LobbyScene.js": {
-			"md5": "1a8452d42a1b397281942fa2b1fdfd31"
+			"md5": "b80333361f1275843a5c745e27b0052b"
 		},
 		"src/Retro/Home/MenuLayer.js": {
 			"md5": "828af38d53fc308785475beef64676e1"
@@ -5699,10 +5699,10 @@
 			"md5": "c5f071e0279d67d3ce065c394ab9d294"
 		},
 		"src/Retro/Modules/AdsMgr.js": {
-			"md5": "c72134862203b278eea1dfb61b6e5597"
+			"md5": "aaee6399d7909852e10082c58f50c839"
 		},
 		"src/Retro/Modules/APIMgr.js": {
-			"md5": "06f01da9639b4cbc124cf62085e4f630"
+			"md5": "b42a0ca4c86233aaa34fe2e1841519c8"
 		},
 		"src/Retro/Modules/Config.js": {
 			"md5": "39918726bddb6da29743cb4b4b9b6c22"
@@ -5720,7 +5720,7 @@
 			"md5": "e7f6ad79f4bc1db48c842ee0e129abca"
 		},
 		"src/Retro/Modules/Tracking.js": {
-			"md5": "e8d797759195069451cae7e04f0232b8"
+			"md5": "def3da14a289f20568081e1e118d3c44"
 		},
 		"src/Retro/Modules/WebJS.js": {
 			"md5": "eac1bb1a2aed005b058d463bed687eea"
@@ -5768,7 +5768,7 @@
 			"md5": "cdc02db755f40d64b2db03c299867d43"
 		},
 		"src/Retro.js": {
-			"md5": "c628ce7c6ecc6bbeb82b5861cea57cd2"
+			"md5": "99be261502a56db71e719ffae3daec04"
 		}},
 	"group" : {},
     "searchPaths" : []
