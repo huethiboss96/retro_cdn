@@ -5666,7 +5666,7 @@
 			"md5": "1d461542fdba68e2e8a54f3d3ab26605"
 		},
 		"src/Retro/Home/Home.js": {
-			"md5": "eb58c3d9ecc3eb26f06221c1c3eea6d3"
+			"md5": "888fbe01383d764d8346d04ac27b8d00"
 		},
 		"src/Retro/Home/ListRomCommon.js": {
 			"md5": "ee48affea96b888dcd4f15f9f3437228"
@@ -5687,7 +5687,7 @@
 			"md5": "aae59f7258c9dc532bd1982f4b142714"
 		},
 		"src/Retro/Home/LobbyScene.js": {
-			"md5": "4e384ce7563440360070530f7fbbe908"
+			"md5": "85afd796a34b777e5428a676b1dd338a"
 		},
 		"src/Retro/Home/MenuLayer.js": {
 			"md5": "828af38d53fc308785475beef64676e1"
@@ -5768,7 +5768,7 @@
 			"md5": "29697194c9a3f9eac345dec1293f973b"
 		},
 		"src/Retro/UI/Rate.js": {
-			"md5": "e1401160144cf4f2f460ac12778abb92"
+			"md5": "fd09086f42f72fc284aa04ad543b652e"
 		},
 		"src/Retro/UI/TestLayer.js": {
 			"md5": "c23c3a83608d6fe6ade0cf838062b392"
