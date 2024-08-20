@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/huethiboss96/retro_cdn/main/v2/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/huethiboss96/retro_cdn/main/v2/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/huethiboss96/retro_cdn/main/v2/",
-	"version" : "3",
+	"version" : "5",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5765,7 +5765,7 @@
 			"md5": "b86e379dbb6b20ac128af58050f733b2"
 		},
 		"src/Retro/UI/OptionLayer.js": {
-			"md5": "29697194c9a3f9eac345dec1293f973b"
+			"md5": "cc86db16aa35f868c99d4425aca995e6"
 		},
 		"src/Retro/UI/Rate.js": {
 			"md5": "fd09086f42f72fc284aa04ad543b652e"
