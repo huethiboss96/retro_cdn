@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/huethiboss96/retro_cdn/main/v2/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/huethiboss96/retro_cdn/main/v2/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/huethiboss96/retro_cdn/main/v2/",
-	"version" : "5",
+	"version" : "9",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5708,7 +5708,7 @@
 			"md5": "28f12a3d8a4226df9cd13e70a55920ce"
 		},
 		"src/Retro/Modules/APIMgr.js": {
-			"md5": "21e36c14395440285c33eefacb3ebc9d"
+			"md5": "40f51f11bdef2bf8593b6e0fef702179"
 		},
 		"src/Retro/Modules/Config.js": {
 			"md5": "39918726bddb6da29743cb4b4b9b6c22"
@@ -5768,7 +5768,7 @@
 			"md5": "cc86db16aa35f868c99d4425aca995e6"
 		},
 		"src/Retro/UI/Rate.js": {
-			"md5": "fd09086f42f72fc284aa04ad543b652e"
+			"md5": "1e9eb1feb3ef38c452acadcf14f5dc99"
 		},
 		"src/Retro/UI/TestLayer.js": {
 			"md5": "c23c3a83608d6fe6ade0cf838062b392"
@@ -5777,7 +5777,7 @@
 			"md5": "cdc02db755f40d64b2db03c299867d43"
 		},
 		"src/Retro.js": {
-			"md5": "314a5c01ce98779ef35fcf842b153ddd"
+			"md5": "d21c29fa2fcff2fe5ed14d88383df526"
 		}},
 	"group" : {},
     "searchPaths" : []
